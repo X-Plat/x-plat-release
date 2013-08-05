@@ -1,0 +1,21 @@
+[submodule "src/dea_ng"]
+	path = src/dea_ng
+	url = https://github.com/X-Plat/dea_ng/
+[submodule "src/cloud_controller_ng"]
+	path = src/cloud_controller_ng
+	url = https://github.com/X-Plat/cloud_controller_ng/
+[submodule "src/warden"]
+	path = src/warden
+	url = https://github.com/X-Plat/warden
+[submodule "src/health_manager"]
+	path = src/health_manager
+	url = https://github.com/X-Plat/health_manager
+[submodule "src/gorouter"]
+	path = src/gorouter
+	url = https://github.com/X-Plat/gorouter
+[submodule "src/uaa"]
+	path = src/uaa
+	url = https://github.com/X-Plat/uaa
+[submodule "src/nats"]
+	path = src/nats
+	url = https://github.com/X-Plat/nats
